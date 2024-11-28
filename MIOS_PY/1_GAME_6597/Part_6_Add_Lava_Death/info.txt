@@ -1,0 +1,3 @@
+se garego lava y collision con enemigos
+collision con lava
+cuando collisiona y muere el player la imagen se cambia a un fantasmita

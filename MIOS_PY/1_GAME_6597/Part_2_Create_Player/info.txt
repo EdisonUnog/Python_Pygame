@@ -1,0 +1,2 @@
+en este documento solo creamos al personaje
+movimiento derecha, izquierda, salto y gravedad

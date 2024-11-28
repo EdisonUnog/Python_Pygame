@@ -1,0 +1,5 @@
+aqui lo que se hizo fue animar el personajes con las distintas imagenes cargadas a una lista 
+si mira a la deracha se queda en la derecah.
+si mira a la izquierda se que viendo a la izquierda 
+
+direccion

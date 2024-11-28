@@ -1,0 +1,3 @@
+se agrego score como texto en pantalla
+game over
+you win

@@ -1,0 +1,2 @@
+se creo botonesde menu y exit
+con banderas 

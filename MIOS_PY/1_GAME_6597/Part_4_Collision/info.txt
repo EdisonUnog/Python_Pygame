@@ -1,0 +1,4 @@
+en este archivo lo que se hizo fue crear condiciones para las collisiones
+arriba de las plataformas, a los lados de la pantalla 
+el top de del peronaje con el bottom de la plataforma
+line 109 hasta la 125

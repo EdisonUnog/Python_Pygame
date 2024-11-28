@@ -1,0 +1,1 @@
+add plataformas en movimiento en el eje x, y

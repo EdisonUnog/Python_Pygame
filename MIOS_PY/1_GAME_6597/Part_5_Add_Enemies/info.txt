@@ -1,0 +1,1 @@
+en esta parte lo que se hizo fue agregar enemigos direcciones  movimientos en la plataforma derecha e izquierda 

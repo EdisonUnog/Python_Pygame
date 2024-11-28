@@ -1,0 +1,10 @@
+[
+    {
+        "nombre": "Goku",
+        "poder_de_ataque": "10000",
+        "habilidades_no_buscadas": [
+            "Genki Dama",
+            "Super Saiyan"
+        ]
+    }
+]

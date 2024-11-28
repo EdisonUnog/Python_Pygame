@@ -1,0 +1,1 @@
+añadimos boton reset y arreglamos que le jugador salte una ve

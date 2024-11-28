@@ -1,0 +1,19 @@
+{
+    "profesionales": [
+        {
+            "nombre": "Edison",
+            "edad": 26,
+            "profesion": "abogado corporativo"
+        },
+        {
+            "nombre": "Francisco",
+            "edad": 20,
+            "profesion": "ingeniero industrial"
+        },
+        {
+            "nombre": "Angel",
+            "edad": 50,
+            "profesion": "ingeniero en software"
+        }
+    ]
+}
